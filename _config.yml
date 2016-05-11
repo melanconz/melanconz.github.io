@@ -5,9 +5,9 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Joey Kirk
+  title: "Zachary Melancon"
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar: "zmelan01@gmail.com" # Email MD5 has
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
@@ -19,25 +19,11 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
-  flickr:
-  github: "madebymunsters/type-theme"
-  google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: "joeykirk"
-  wordpress:
-  youtube:
+  email_address: "zmelan01@gmail.com"
+  github: "https://github.com/melanconz"
+  google_plus: "https://plus.google.com/+zacharymelancon"
+  linkedin:  "https://www.linkedin.com/in/zacharymelancon"
+  stack_exchange: "https://stackexchange.com/users/6992574/zachary-melancon"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
