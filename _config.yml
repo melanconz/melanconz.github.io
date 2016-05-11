@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://" # the base hostname & protocol for your site
+baseurl: "melanconz.github.io" # the subpath of your site, e.g. /blog/
+url: "http://melanconz.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
   title: "Zachary Melancon"
-  avatar: avatar.png
+  avatar: 
   gravatar: "zmelan01@gmail.com" # Email MD5 has
   description: "A website with blog posts and pages" # used by search engines
 
