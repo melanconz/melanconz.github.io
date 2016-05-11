@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/melanconz.github.io" # the subpath of your site, e.g. /blog/
-url: "http://melanconz.github.io" # the base hostname & protocol for your site
+baseurl: "/zacharymelancon.xyz" # the subpath of your site, e.g. /blog/
+url: "http://zacharymelancon.xyz" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
