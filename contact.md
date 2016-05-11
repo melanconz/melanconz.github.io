@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
+feature-img: "img/sample_feature_img.png"
 ---
 
 If you wish to contact Zachary Melancon for any reason, fill out the form below, and click "send message".
